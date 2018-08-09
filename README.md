@@ -2,13 +2,15 @@
 
 > The Maintainer Mountaineer Logo
 
-Here be asset files.
+<img src="mntnr.png" style="width:200px;" />
+
+These are the asset files for the logo.
 
 ## Contribute
 
-Sure!
+Sure!?
 
 ## License
 
-Copyright (c) 2017 Burnt Fen Creative LLC. All rights reserved.
+Copyright (c) 2017-2018 Burnt Fen Creative LLC. All rights reserved.
  
